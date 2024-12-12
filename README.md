@@ -1,4 +1,4 @@
-# Proyecto elaborado por Edgar Barajas y Diego valdez 
+# Proyecto elaborado por Edgar Barajas y Diego Valdez 
 credenciales para entrar:
 correo: edgar@gmail.com
 contraseña: 123456
@@ -24,9 +24,11 @@ Recibe notificaciones sobre ofertas y promociones exclusivas.
 Rastrea tu pedido en tiempo real y conoce la hora estimada de entrega.
 
 
-## Tecnologías 
+# Tecnologías 
  1.  se usa react native, por lo que para ejecutarlo es lo primero que debes tener 'react-native'
  2.  se usa firebase y sus servicios asi que hay que tener en cuenta que debes intarlar las librerías correspondientes "firebase/firestore"
 3.  se usa servicios de coomunicaciones por lo que hay que descagar "react-native-communications"
 4 .  se usa imagePicker 
+# BackEnd
 
+este se da por la configuración de firebase en el archivo firebaseConfig.js
