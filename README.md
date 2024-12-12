@@ -1,4 +1,10 @@
-# Proyecto
+# Proyecto elaborado por Edgar Barajas y Diego valdez 
+credenciales para entrar:
+correo: edgar@gmail.com
+contraseña: 123456
+
+
+
 ## Tema
  ¿Cansado de buscar incansablemente frutas y verduras frescas? AgroMarket te ofrece una manera más fácil y rápida de encontrar los productos que necesitas.
 
