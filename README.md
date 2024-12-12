@@ -8,7 +8,7 @@
 ### Crear listas de compras personalizadas.
 ### Descubrir productores locales cercanos a tu ubicación.
 ### Realizar pagos seguros y recibir tus compras a domicilio.
-### Opción 3: Detallando las funcionalidades
+
 
 ### AgroMarket es mucho más que una simple app de compras. Con nuestras funcionalidades innovadoras, podrás:
 
@@ -16,7 +16,7 @@
 ### Chatea en vivo con los productores: Resuelve tus dudas y realiza pedidos especiales.
 ### Recibe notificaciones sobre ofertas y promociones exclusivas.
 ### Rastrea tu pedido en tiempo real y conoce la hora estimada de entrega.
-### Opción 4: Resaltando el impacto social
+
 
 ## Tecnologías 
 ### 1.  se usa react native, por lo que para ejecutarlo es lo primero que debes tener 'react-native'
